@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/CassiaElen">
-  <img height="180em" widht="250px" src="https://github-readme-stats.vercel.app/api?username=CassiaElen&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" widht="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaElen&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" widht="150px" src="https://github-readme-stats.vercel.app/api?username=CassiaElen&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" widht="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaElen&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 ##
